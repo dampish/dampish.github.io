@@ -8,7 +8,7 @@ title: Safe at Home Seniors
 <p>Your hub for senior home-safety tips, product reviews, and step-by-step guides written for Canadian families.</p>
 
 <!-- ✱ BEEHIIV SIGN-UP (script only) ✱ -->
-<script async data-uid="https://subscribe-forms.beehiiv.com/cdda1ec4-c7b1-4f16-804a-fdf8052d7226" class="beehiiv-embed" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="width: ; height: ; margin: 0; border-radius: 0px 0px 0px 0px !important; background-color: transparent; box-shadow: 0 0 #0000;" src="https://embeds.beehiiv.com/your-embed.js"></script>
+<script async data-uid="https://subscribe-forms.beehiiv.com/cdda1ec4-c7b1-4f16-804a-fdf8052d7226" src="https://embeds.beehiiv.com/your-embed.js"></script>
 
 <p style="font-size:0.9rem; color:#666; max-width:32rem; margin:1rem auto;">
   Subscribe to get our free <strong>Room-by-Room Hazard Checklist</strong> plus weekly gear reviews straight to your inbox.
