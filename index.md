@@ -4,53 +4,20 @@ title: Safe at Home Seniors
 ---
 
 <!-- keep your existing Beehiiv script and content here -->
+   <script async src="https://subscribe-forms.beehiiv.com/embed.js"></script><iframe src="https://subscribe-forms.beehiiv.com/cdda1ec4-c7b1-4f16-804a-fdf8052d7226" class="beehiiv-embed" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="width: ; height: ; margin: 0; border-radius: 0px 0px 0px 0px !important; background-color: transparent; box-shadow: 0 0 #0000;"></iframe>
 
-
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Safe at Home Seniors – Guides & Gear for Aging in Place</title>
-  <meta name="description" content="Practical checklists, product reviews, and how-to guides to keep Canadian seniors safe and independent at home." />
-
-  <!-- Simple, mobile-first styling -->
-  <style>
-    :root {
-      --accent: #0052cc;
-    }
-    * { box-sizing: border-box; }
-    body {
-      margin: 0; padding: 0 1rem;
-      font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
-      color: #333; line-height: 1.5;
-      display: flex; flex-direction: column; min-height: 100vh;
-    }
-    main { margin: auto; max-width: 40rem; text-align: center; }
-    h1 { color: var(--accent); margin-top: 2rem; font-size: 2rem; }
-    p { margin: 0.5rem 0 1.5rem; }
-    footer { margin-top: auto; padding: 1.5rem 0; font-size: 0.8rem; color: #777; }
-    a { color: var(--accent); text-decoration: none; }
-    a:hover { text-decoration: underline; }
-  </style>
-</head>
-<body>
+    <p style="font-size:0.9rem; color:#666; max-width:32rem; margin:1rem auto;">
+      Subscribe to get our free <strong>Room-by-Room Hazard Checklist</strong> plus weekly gear reviews straight to your inbox.
+    </p>
 
   <main>
     <h1>Safe at Home&nbsp;Seniors</h1>
     <p>Your hub for senior home-safety tips, product reviews, and step-by-step guides written for Canadian families.</p>
 
     <!-- Replace the line below with your Beehiiv embed script -->
-    <script async src="https://subscribe-forms.beehiiv.com/embed.js"></script><iframe src="https://subscribe-forms.beehiiv.com/cdda1ec4-c7b1-4f16-804a-fdf8052d7226" class="beehiiv-embed" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="width: ; height: ; margin: 0; border-radius: 0px 0px 0px 0px !important; background-color: transparent; box-shadow: 0 0 #0000;"></iframe>
-
-    <p style="font-size:0.9rem; color:#666; max-width:32rem; margin:1rem auto;">
-      Subscribe to get our free <strong>Room-by-Room Hazard Checklist</strong> plus weekly gear reviews straight to your inbox.
-    </p>
+ 
   </main>
 
   <footer>
     &copy; 2025 Safe at Home Seniors • Made with ❤️ in Canada
   </footer>
-
-</body>
-</html>
