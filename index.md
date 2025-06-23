@@ -1,3 +1,11 @@
+---
+layout: default
+title: Safe at Home Seniors
+---
+
+<!-- keep your existing Beehiiv script and content here -->
+
+
 <!doctype html>
 <html lang="en">
 <head>
