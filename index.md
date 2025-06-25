@@ -8,6 +8,7 @@ title: Safe at Home Seniors
 
 <!-- ✱ BEEHIIV SIGN-UP (keep BOTH lines, no indentation) ✱ -->
 <script async src="https://subscribe-forms.beehiiv.com/embed.js"></script>
+
 <iframe src="https://subscribe-forms.beehiiv.com/cdda1ec4-c7b1-4f16-804a-fdf8052d7226" class="beehiiv-embed" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="width:100%;max-width:460px;height:58px;margin:0 auto;border-radius:4px;background-color:transparent;box-shadow:none;"></iframe>
 
 <p style="font-size:0.9rem;color:#666;max-width:32rem;margin:1rem auto;text-align:center;">
