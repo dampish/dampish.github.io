@@ -17,7 +17,7 @@ title: Safe at Home Seniors
 
 <!-- ✱ CTA BUTTON (Gumroad overlay) ✱ -->
 <p style="text-align:center;">
-  <a class="gumroad-button" href="https://safeathomeseniors.gumroad.com/l/hazard-checklist" style="display:inline-block;padding:0.75rem 1.25rem;background:#0052cc;color:#fff;border-radius:6px;text-decoration:none;font-weight:600;">
+  <a class="gumroad-button" href="https://safeathomeseniors.gumroad.com/l/hazard-checklist?wanted=true" style="display:inline-block;padding:0.75rem 1.25rem;background:#0052cc;color:#fff;border-radius:6px;text-decoration:none;font-weight:600;">
     Download the checklist →
   </a>
 </p>
