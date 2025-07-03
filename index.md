@@ -15,12 +15,14 @@ title: Safe at Home Seniors
   Subscribe to get our free <strong>Room-by-Room Hazard Checklist</strong> plus weekly gear reviews straight to your inbox.
 </p>
 
-<!-- CTA BUTTON -->
+<!-- ✱ CTA BUTTON (Gumroad overlay) ✱ -->
 <p style="text-align:center;">
-  <a href="/products/checklist/" style="display:inline-block;padding:0.75rem 1.25rem;background:#0052cc;color:#fff;border-radius:6px;text-decoration:none;font-weight:600;">
-    See What’s Inside →
+  <a class="gumroad-button" href="https://safeathomeseniors.gumroad.com/l/hazard-checklist" style="display:inline-block;padding:0.75rem 1.25rem;background:#0052cc;color:#fff;border-radius:6px;text-decoration:none;font-weight:600;">
+    Download the checklist →
   </a>
 </p>
+<script async src="https://gumroad.com/js/gumroad.js"></script>
+
 
 ---
 
